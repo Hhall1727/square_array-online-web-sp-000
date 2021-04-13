@@ -1,3 +1,5 @@
 def square_array(array)
-  # your code here
+  numbers.each do |num|
+    puts "#{num}^2"
+  end 
 end
